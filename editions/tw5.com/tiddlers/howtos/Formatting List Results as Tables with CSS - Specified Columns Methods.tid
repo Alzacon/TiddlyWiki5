@@ -18,8 +18,6 @@ For other table-making techniques see also:
 /* FOUR COLUMN MODE */
 .fourcolumns {
    display:block;
-   column-count:4;
-   column-gap:1em;
    -moz-column-count:4;
    -moz-column-gap:1em;
    -webkit-column-count: 4;
@@ -44,8 +42,6 @@ Note the various places you need to indicate the number of columns
 <style>
 .fourcolumns {
    display:block;
-   column-count:4;
-   column-gap:1em;
    -moz-column-count:4;
    -moz-column-gap:1em;
    -webkit-column-count: 4;
